@@ -1,2 +1,2 @@
 # news-homepage
-Visit site
+Visit site https://jamorno.github.io/news-homepage/
