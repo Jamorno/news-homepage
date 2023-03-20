@@ -84,10 +84,6 @@ nav {
     transition: 0.5s;
 }
 
-.active {
-    display: flex;
-}
-
 @media (min-width: 1028px) {
     .nav-logo {
         top: 0.5rem;
