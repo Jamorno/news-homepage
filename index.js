@@ -1,6 +1,6 @@
-const closeIcon = document.getElementById("js-close-icon"),
-    navBarToggle = document.getElementById("js-nav-toggle"),
-    slideBar = document.getElementById("js-slide-bar");
+const closeIcon = document.querySelector(".close-icon"),
+    navBarToggle = document.querySelector(".nav-toggle"),
+    slideBar = document.querySelector(".slide-bar");
 
 navBarToggle.addEventListener("click", function () {
     slideBar.classList.add("open");
